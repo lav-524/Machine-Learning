@@ -10,7 +10,7 @@ Machine learning algorithm practice using Python,Pandas and Scikit-learn.
 - Pandas
 - Scikit-learn
 - Jupyter Notebook
-- 
+ 
 ## Repository Structure
 
 Each algorithm has its own folder containing practice notebooks, explanations, and related files where applicable.
